@@ -1,5 +1,5 @@
 # Movie Page - Advanced Web Applications Project
-This project is a **React-based movie website** developed by a group of four students. It was built using **HTML, CSS, and JavaScript** and retrieves movie information retrieved from external APIs, including **The Movie Database (TMDB)** and **Finnkino’s public API**. The project focused on user interface design and working with external APIs.
+This project is a **React-based movie website** developed by a group of four students. It was built primarily with **JavaScript**, alongside **CSS, and HTML**, and retrieves movie information retrieved from external APIs, including **The Movie Database (TMDB)** and **Finnkino’s public API**. The project focused on user interface design and working with external APIs.
 
 ### Key Features
 - Browse and search movies using **The Movie Database (TMDB) API**
@@ -12,9 +12,9 @@ This project is a **React-based movie website** developed by a group of four stu
 
 ### Technologies Used  
 - React
-- JavaScript
-- HTML  
+- JavaScript  
 - CSS
+- HTML
 - TMDB and Finnkino’s public API
 
 ## My Contribution
